@@ -1,0 +1,30 @@
+
+
+body {
+    background-color:grey
+}
+
+h1{
+    background-color: black;
+    color: white;
+    font-style: initial;
+    text-align: center;
+}
+h2{
+    color: white;
+    font-style: initial;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+img{
+    width: 800px;
+    height: 800px;
+}
+footer{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
